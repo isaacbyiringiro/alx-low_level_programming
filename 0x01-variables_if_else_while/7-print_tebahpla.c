@@ -13,4 +13,4 @@ while (alpha_low >= 'a')
 }
 putchar('\n');
 return (0);
-}}
+}
